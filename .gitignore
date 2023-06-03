@@ -1,3 +1,4 @@
 .gitignore
 Alan Agresti, Maria Kateri - Foundations of Statistics for Data Scientists_ With R and Python (Chapman & Hall_CRC Texts in Statistical Science) (2021, Chapman and Hall_CRC) - libgen.li.pdf
 \venv
+\.ipynb_checkpoints
